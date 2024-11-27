@@ -38,7 +38,7 @@ GitHub: [CodēCodes GitHub](https://github.com/Cod-e-Codes)
 
 Below is a screenshot of the app in action:
 
-<img src="assets/screenshot.png" alt="App Screenshot" width="400" />
+<img src="./screenshot.png" alt="App Screenshot" width="400" />
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
